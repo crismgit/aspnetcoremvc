@@ -1,4 +1,6 @@
+This project was designed at DevelopersBr/SheSharp - Hands-on .NET CORE guiado.
 
+Este projeto foi desenvolvido no DevelopersBr/SheSharp - Hands-on .NET CORE guiado.
 
 IMPORTANT!
 
